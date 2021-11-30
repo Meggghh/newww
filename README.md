@@ -1,3 +1,2 @@
-# newww
-Hey this is meghana making the second commit  using git
+HEYY MEGHANA IS UPDATING YOUR README.MD FILE IN YOUR REPOSITORY
 
